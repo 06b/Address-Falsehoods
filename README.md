@@ -7,3 +7,5 @@ A list of falsehoods about addresses
   - Except the fact [Büsingen](https://en.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein#Post_and_telecommunications) is located in the German/Swiss border area.
 - **It's perfectly fine to use Zip Code instead of Postal Code**
   - Because Dick Code makes perfect sense. "zip" in Arabic means dick.
+- **A person can only have one address**
+  - A person can either own multiple properties or a child could have an address with mother, an address with a father, etc.
