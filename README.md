@@ -9,3 +9,5 @@ A list of falsehoods about addresses
   - Because Dick Code makes perfect sense. "zip" in Arabic means dick.
 - **A person can only have one address**
   - A person can either own multiple properties or a child could have an address with mother, an address with a father, etc.
+- **An Address will have a street name**
+  - [Japan's addressing system](https://en.wikipedia.org/wiki/Japanese_addressing_system) is pretty complex and most Japanese streets do not have names.
