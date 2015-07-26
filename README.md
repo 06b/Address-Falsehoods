@@ -14,6 +14,6 @@ A list of falsehoods about addresses
 - **Postal codes should be stored in a database using an integer column**
   - Reminds me when I inherited a project that the previous developer did this and then the client sent over data with Massachusetts ZIP Codes which start with 0.
 - **Postal codes won't start with a zero**
-  - See falsehood about storing postal codes using an integer. Norway also has postcodes which can start with a 0 (0368 is not the same as 368).  
+  - Norway also has postcodes which can start with a 0 (0368 is not the same as 368). **Related:** Postal codes should be stored in a database using an integer column.
 - **An address postal code can't contain a space**
-  - Sweden has a space after the first digit (5 4367).
+  - Sweden has a space after the first digit (5 4367). **Related:** Postal codes should be stored in a database using an integer column.
