@@ -23,3 +23,5 @@ A list of falsehoods about addresses
   - Counterexample: 1A Egmont Road, Middlesbrough, TS4 2HT
 - **An address will not have a building that is numbered zero**
   - Counterexample: 0 Egmont Road, Middlesbrough, TS4 2HT
+- **Street numbers (and building numbers) don't contain fractions**
+  -  43rd ½ St, Pittsburgh, PA, and of fractional building numbers. These can be written in unicode (43rd ½ St), as a fraction with a slash (43 1/2) or as a decimal (43.5)
