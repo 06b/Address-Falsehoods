@@ -17,3 +17,5 @@ A list of falsehoods about addresses
   - Norway also has postcodes which can start with a 0 (0368 is not the same as 368). **Related:** Postal codes should be stored in a database using an integer column.
 - **An address postal code can't contain a space**
   - Sweden has a space after the first digit (5 4367). **Related:** Postal codes should be stored in a database using an integer column.
+- **An address will start with, or at least include, a building number.**
+  - Counterexample: Royal Opera House, Covent Garden, London, WC2E 9DD, United Kingdom.
