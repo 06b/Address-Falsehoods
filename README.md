@@ -31,3 +31,5 @@ A list of falsehoods about addresses
   -  Counterexample: The difference between 50 Ammanford Road, Tycroes, Ammanford, SA18 3QJ and 50 Ammanford Road, Llandybie, Ammanford, SA18 3YF is about 4 miles [Google Maps](https://www.google.co.uk/maps?q=SA18+3QJ+to+SA18+3YF).
 - **If an address line has a number, it's the building number.**
   -  Don't forget about suite numbers, floor numbers, unit numbers, and organisations with numbers in their names. An address from Japan with fifteen digits in six separate numbers (five if you count the zip code as a single number). The format is: 980-0804 (zip code), Miyagi-ken (prefecture) Sendai-shi (city) Aoba-ku (ward) Kokubuncho (district) 4-10-20 (sub-district-number block-number lot-number) Sendai (building name) 401 (flat number).
+- **If the first address line has a number, it must be a building number**
+  - Counterexample: 3 Store, 311-318 High Holborn, London, WC1V 7BN 
