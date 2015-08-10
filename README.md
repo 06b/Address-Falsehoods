@@ -38,4 +38,6 @@ A list of falsehoods about addresses
 - **A building name won't also be a number**
   - Ten Post Office Sq, Boston MA 02109 USA - which is not, reportedly, the same as 10 Post Office Sq, Boston MA 02109 USA. 
 - **An address with leading zeros can be omitted**
-  -  At 101 Alma St, Apartment 001, Palo Alto - where apartments 1 and 001 were on different floors.
+  - At 101 Alma St, Apartment 001, Palo Alto - where apartments 1 and 001 were on different floors.
+- **A street name won't include a number**
+  - Counterexample: 8 Seven Gardens Burgh, WOODBRIDGE, IP13 6SU 
