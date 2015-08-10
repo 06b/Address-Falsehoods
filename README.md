@@ -27,3 +27,5 @@ A list of falsehoods about addresses
   -  43rd ½ St, Pittsburgh, PA, and of fractional building numbers. These can be written in unicode (43rd ½ St), as a fraction with a slash (43 1/2) or as a decimal (43.5)
 - **An address that has a building name won't have a building number (or vice-versa)**
   -  Counterexample: Flat 1.4, Ziggurat Building, 60-66 Saffron Hill, London, EC1N 8QX, United Kingdom
+- **A building number will only be used once per street**
+  -  Counterexample: The difference between 50 Ammanford Road, Tycroes, Ammanford, SA18 3QJ and 50 Ammanford Road, Llandybie, Ammanford, SA18 3YF is about 4 miles [Google Maps](https://www.google.co.uk/maps?q=SA18+3QJ+to+SA18+3YF).
