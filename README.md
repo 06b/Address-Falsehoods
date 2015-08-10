@@ -47,3 +47,5 @@ A list of falsehoods about addresses
   - Counterexample: Gondel 2695, Lelystad, means area Gondel, street 26, number 95
 - **Street names always end in descriptors like 'street', 'avenue', 'drive', 'square', 'hill' or 'view'**
   - Counterexample: Piccadilly, London, W1J 9PN
+- **A street name will only have one descriptor**
+  - Counterexample: 17 Hill Street, London, W1J 5LJ or Avenue Road, Toronto, Ontario.
