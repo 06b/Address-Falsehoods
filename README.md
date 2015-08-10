@@ -43,3 +43,5 @@ A list of falsehoods about addresses
   - Counterexample: 8 Seven Gardens Burgh, WOODBRIDGE, IP13 6SU 
 - **Street names that have numbers will be expressed as words, not digits**
   - Streets can be numbered in the Netherlands - for example, Plein 1944 in Nijmegen
+- **When there's a numbered street and a house number, there will be a separator between them**
+  - Counterexample: Gondel 2695, Lelystad, means area Gondel, street 26, number 95
