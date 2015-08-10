@@ -19,6 +19,8 @@ A list of falsehoods about addresses
   - Sweden has a space after the first digit (5 4367). **Related:** Postal codes should be stored in a database using an integer column.
 - **An address will start with, or at least include, a building number.**
   - Counterexample: Royal Opera House, Covent Garden, London, WC2E 9DD, United Kingdom.
+- **Street names that have numbers will be expressed as words, not digits**
+  - Streets can be numbered in the Netherlands - for example, Plein 1944 in Nijmegen
 - **An address with a building number will be all-numeric.**
   - Counterexample: 1A Egmont Road, Middlesbrough, TS4 2HT
 - **An address will not have a building that is numbered zero**
