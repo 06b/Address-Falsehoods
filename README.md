@@ -51,3 +51,5 @@ A list of falsehoods about addresses
   - Counterexample: 17 Hill Street, London, W1J 5LJ or Avenue Road, Toronto, Ontario.
 - **Street name descriptors will be add the end of the address line**
   - French addresses use prefix descriptors like 'rue', 'avenue', 'place' and 'allee'.
+- **A descriptor will be located at the start or end of the street name.**
+  - Counterexample: 3 Bishops Square Business Park, Hatfield, AL10 9NA
