@@ -37,3 +37,5 @@ A list of falsehoods about addresses
   - [Boulevard Théophile Sueur, Montreuil, Seine-Saint-Denis, France](https://maps.google.fr/maps?q=48.857415,2.467167) has evens-only on both sides. The two sides are also in different cities and Départements. 
 - **A building name won't also be a number**
   - Ten Post Office Sq, Boston MA 02109 USA - which is not, reportedly, the same as 10 Post Office Sq, Boston MA 02109 USA. 
+- **An address with leading zeros can be omitted**
+  -  At 101 Alma St, Apartment 001, Palo Alto - where apartments 1 and 001 were on different floors.
