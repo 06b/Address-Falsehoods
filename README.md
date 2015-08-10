@@ -35,3 +35,5 @@ A list of falsehoods about addresses
   - Counterexample: 3 Store, 311-318 High Holborn, London, WC1V 7BN 
 - **If the addresses on the left of the road are even, the addresses on the right must be odd**
   - [Boulevard Théophile Sueur, Montreuil, Seine-Saint-Denis, France](https://maps.google.fr/maps?q=48.857415,2.467167) has evens-only on both sides. The two sides are also in different cities and Départements. 
+- **A building name won't also be a number**
+  - Ten Post Office Sq, Boston MA 02109 USA - which is not, reportedly, the same as 10 Post Office Sq, Boston MA 02109 USA. 
