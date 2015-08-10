@@ -45,3 +45,5 @@ A list of falsehoods about addresses
   - Streets can be numbered in the Netherlands - for example, Plein 1944 in Nijmegen
 - **When there's a numbered street and a house number, there will be a separator between them**
   - Counterexample: Gondel 2695, Lelystad, means area Gondel, street 26, number 95
+- **Street names always end in descriptors like 'street', 'avenue', 'drive', 'square', 'hill' or 'view'**
+  - Counterexample: Piccadilly, London, W1J 9PN
