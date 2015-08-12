@@ -53,5 +53,5 @@ A list of falsehoods about addresses
   - French addresses use prefix descriptors like 'rue', 'avenue', 'place' and 'allee'.
 - **A descriptor will be located at the start or end of the street name.**
   - Counterexample: 3 Bishops Square Business Park, Hatfield, AL10 9NA
-- **A town won't be named after a descriptor **
+- **A town won't be named after a descriptor**
   - Counterexample: There is a town called [Street in Somerset, UK.](https://www.google.co.uk/maps/place/Street,+Somerset/@51.12341,-2.7352459,14z/data=!3m1!4b1!4m2!3m1!1s0x487210b31d90386d:0x48e075dd76523c34)
